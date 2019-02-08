@@ -1,7 +1,7 @@
 # VESCO-HTML-Template
 ![Screenshot](https://github.com/abid413119/VESCO-HTML-Template/blob/master/images/vesco.png)
 
-Demo: https://abid413119.github.io/VESCO-HTML-Template/
+Demo: https://liza413119.github.io/VESCO-HTML-Template/.
 
 # Technology Used
 <ol>
